@@ -3,11 +3,11 @@ fragment = "hero"
 #disabled = true
 date = "2016-09-07"
 weight = 50
-background = "light" # can influence the text color
+background = "dark" # can influence the text color
 particles = true
 
-title = "Syna Theme"
-subtitle = "Showcase your next project"
+title = "Ilities.Dev"
+subtitle = "Software Architecture Consultancy"
 
 [header]
   image = "header.jpg"

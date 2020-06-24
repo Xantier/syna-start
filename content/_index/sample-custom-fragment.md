@@ -4,5 +4,5 @@ fragment = "sample-custom-fragment"
 date = "2017-09-09"
 weight = 1000
 
-background = "light"
+background = "dark"
 +++

@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "/"
 languageCode = "en-us"
-title = "Okkur - Syna"
+title = "Ilities.Dev"
 theme = "syna"
 enableGitInfo = true
 version = "0.17.2"
@@ -24,8 +24,8 @@ lastmod = ["lastmod", ":git", "date"]
      unsafe = true
 
 [params]
-  name = "Okkur Labs"
-  description = "Open Source Theme for your next project"
+  name = "Ilities.Dev"
+  description = "Spring and Javascript Architecture Consultant"
 
   [params.style]
     #background = "secondary"
