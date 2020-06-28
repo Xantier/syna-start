@@ -25,7 +25,7 @@ lastmod = ["lastmod", ":git", "date"]
 
 [params]
   name = "Ilities.Dev"
-  description = "Spring and Javascript Architecture Consultant"
+  description = "Helping you to scale your Java/Script"
 
   [params.style]
     #background = "secondary"
